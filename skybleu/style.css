@@ -1,0 +1,11 @@
+/*
+Theme Name: SkyBleu
+Description: SkyBleu is a minimalistic, cool and foremost responsive blog theme. 
+Version: 1.0
+Author: Heikki Heiskanen
+Author URI: http://fi.linkedin.com/pub/heikki-heiskanen/a1/675/140/
+*/
+
+@import url("stylesheets/skeleton.css");
+@import url("stylesheets/layout.css");
+@import url("stylesheets/base.css");
